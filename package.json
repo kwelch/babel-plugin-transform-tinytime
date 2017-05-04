@@ -18,7 +18,8 @@
   "keywords": [
     "babel",
     "babel-plugin",
-    "logging"
+    "tinytime",
+    "transform"
   ],
   "author": "Kyle Welch <kyle@krwelch.com> (http://www.krwelch.com/)",
   "license": "MIT",

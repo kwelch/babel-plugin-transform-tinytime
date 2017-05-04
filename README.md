@@ -17,7 +17,9 @@
 
 ## Usage
 
-`babel-plugin-transform-tinytime` hosits `tinytime` calls out of the render scope.
+`babel-plugin-transform-tinytime` hosits `[tinytime](https://github.com/aweary/tinytime)` calls out of the render scope.
+
+This is based off the [Efficency Section](https://github.com/aweary/tinytime#efficiency) of the `tinytime` ReadMe. 
 
 ## Roadmap
 
