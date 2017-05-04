@@ -1,5 +1,4 @@
 # Babel Plugin Transform TinyTime
-[![All Contributors](https://img.shields.io/badge/all_contributors-0-orange.svg?style=flat-square)](#contributors)
 
 [![version](https://img.shields.io/npm/v/babel-plugin-transform-tinytime.svg?style=flat-square)](http://npm.im/babel-plugin-transform-tinytime)
 [![downloads](https://img.shields.io/npm/dm/babel-plugin-transform-tinytime.svg?style=flat-square)](http://npm-stat.com/charts.html?package=babel-plugin-transform-tinytime)
